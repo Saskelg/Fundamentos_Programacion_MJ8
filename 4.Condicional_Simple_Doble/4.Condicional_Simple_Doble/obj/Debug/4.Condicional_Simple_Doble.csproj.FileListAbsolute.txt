@@ -1,0 +1,7 @@
+C:\Users\Usuario\Dropbox\UPB\Programacion\Fundamentos_Programacion_MJ8\4.Condicional_Simple_Doble\4.Condicional_Simple_Doble\bin\Debug\4.Condicional_Simple_Doble.exe.config
+C:\Users\Usuario\Dropbox\UPB\Programacion\Fundamentos_Programacion_MJ8\4.Condicional_Simple_Doble\4.Condicional_Simple_Doble\bin\Debug\4.Condicional_Simple_Doble.exe
+C:\Users\Usuario\Dropbox\UPB\Programacion\Fundamentos_Programacion_MJ8\4.Condicional_Simple_Doble\4.Condicional_Simple_Doble\bin\Debug\4.Condicional_Simple_Doble.pdb
+C:\Users\Usuario\Dropbox\UPB\Programacion\Fundamentos_Programacion_MJ8\4.Condicional_Simple_Doble\4.Condicional_Simple_Doble\obj\Debug\4.Condicional_Simple_Doble.csproj.AssemblyReference.cache
+C:\Users\Usuario\Dropbox\UPB\Programacion\Fundamentos_Programacion_MJ8\4.Condicional_Simple_Doble\4.Condicional_Simple_Doble\obj\Debug\4.Condicional_Simple_Doble.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Dropbox\UPB\Programacion\Fundamentos_Programacion_MJ8\4.Condicional_Simple_Doble\4.Condicional_Simple_Doble\obj\Debug\4.Condicional_Simple_Doble.exe
+C:\Users\Usuario\Dropbox\UPB\Programacion\Fundamentos_Programacion_MJ8\4.Condicional_Simple_Doble\4.Condicional_Simple_Doble\obj\Debug\4.Condicional_Simple_Doble.pdb
