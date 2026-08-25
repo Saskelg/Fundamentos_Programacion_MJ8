@@ -1,0 +1,7 @@
+C:\Users\Usuario\Dropbox\UPB\Programacion\Fundamentos_Programacion_MJ8\Parcial1_Practico\Parcial1_Practico\obj\Debug\Parcial1_Practico.csproj.AssemblyReference.cache
+C:\Users\Usuario\Dropbox\UPB\Programacion\Fundamentos_Programacion_MJ8\Parcial1_Practico\Parcial1_Practico\obj\Debug\Parcial1_Practico.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Dropbox\UPB\Programacion\Fundamentos_Programacion_MJ8\Parcial1_Practico\Parcial1_Practico\bin\Debug\Parcial1_Practico.exe.config
+C:\Users\Usuario\Dropbox\UPB\Programacion\Fundamentos_Programacion_MJ8\Parcial1_Practico\Parcial1_Practico\bin\Debug\Parcial1_Practico.exe
+C:\Users\Usuario\Dropbox\UPB\Programacion\Fundamentos_Programacion_MJ8\Parcial1_Practico\Parcial1_Practico\bin\Debug\Parcial1_Practico.pdb
+C:\Users\Usuario\Dropbox\UPB\Programacion\Fundamentos_Programacion_MJ8\Parcial1_Practico\Parcial1_Practico\obj\Debug\Parcial1_Practico.exe
+C:\Users\Usuario\Dropbox\UPB\Programacion\Fundamentos_Programacion_MJ8\Parcial1_Practico\Parcial1_Practico\obj\Debug\Parcial1_Practico.pdb

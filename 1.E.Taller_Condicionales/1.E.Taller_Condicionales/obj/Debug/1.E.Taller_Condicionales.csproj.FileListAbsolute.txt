@@ -1,0 +1,7 @@
+C:\Users\Usuario\Dropbox\UPB\Programacion\Fundamentos_Programacion_MJ8\1.E.Taller_Condicionales\1.E.Taller_Condicionales\bin\Debug\1.E.Taller_Condicionales.exe.config
+C:\Users\Usuario\Dropbox\UPB\Programacion\Fundamentos_Programacion_MJ8\1.E.Taller_Condicionales\1.E.Taller_Condicionales\bin\Debug\1.E.Taller_Condicionales.exe
+C:\Users\Usuario\Dropbox\UPB\Programacion\Fundamentos_Programacion_MJ8\1.E.Taller_Condicionales\1.E.Taller_Condicionales\bin\Debug\1.E.Taller_Condicionales.pdb
+C:\Users\Usuario\Dropbox\UPB\Programacion\Fundamentos_Programacion_MJ8\1.E.Taller_Condicionales\1.E.Taller_Condicionales\obj\Debug\1.E.Taller_Condicionales.csproj.AssemblyReference.cache
+C:\Users\Usuario\Dropbox\UPB\Programacion\Fundamentos_Programacion_MJ8\1.E.Taller_Condicionales\1.E.Taller_Condicionales\obj\Debug\1.E.Taller_Condicionales.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Dropbox\UPB\Programacion\Fundamentos_Programacion_MJ8\1.E.Taller_Condicionales\1.E.Taller_Condicionales\obj\Debug\1.E.Taller_Condicionales.exe
+C:\Users\Usuario\Dropbox\UPB\Programacion\Fundamentos_Programacion_MJ8\1.E.Taller_Condicionales\1.E.Taller_Condicionales\obj\Debug\1.E.Taller_Condicionales.pdb

@@ -1,0 +1,7 @@
+C:\Users\Usuario\Dropbox\UPB\Programacion\Fundamentos_Programacion_MJ8\7.Ciclo_While\7.Ciclo_While\bin\Debug\7.Ciclo_While.exe.config
+C:\Users\Usuario\Dropbox\UPB\Programacion\Fundamentos_Programacion_MJ8\7.Ciclo_While\7.Ciclo_While\bin\Debug\7.Ciclo_While.exe
+C:\Users\Usuario\Dropbox\UPB\Programacion\Fundamentos_Programacion_MJ8\7.Ciclo_While\7.Ciclo_While\bin\Debug\7.Ciclo_While.pdb
+C:\Users\Usuario\Dropbox\UPB\Programacion\Fundamentos_Programacion_MJ8\7.Ciclo_While\7.Ciclo_While\obj\Debug\7.Ciclo_While.csproj.AssemblyReference.cache
+C:\Users\Usuario\Dropbox\UPB\Programacion\Fundamentos_Programacion_MJ8\7.Ciclo_While\7.Ciclo_While\obj\Debug\7.Ciclo_While.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Dropbox\UPB\Programacion\Fundamentos_Programacion_MJ8\7.Ciclo_While\7.Ciclo_While\obj\Debug\7.Ciclo_While.exe
+C:\Users\Usuario\Dropbox\UPB\Programacion\Fundamentos_Programacion_MJ8\7.Ciclo_While\7.Ciclo_While\obj\Debug\7.Ciclo_While.pdb
