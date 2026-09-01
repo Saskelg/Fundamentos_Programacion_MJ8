@@ -1,0 +1,7 @@
+C:\Users\Usuario\Dropbox\UPB\Programacion\Fundamentos_Programacion_MJ8\9.Ciclos_While_eEercicios\9.Ciclos_While_eEercicios\bin\Debug\9.Ciclos_While_eEercicios.exe.config
+C:\Users\Usuario\Dropbox\UPB\Programacion\Fundamentos_Programacion_MJ8\9.Ciclos_While_eEercicios\9.Ciclos_While_eEercicios\bin\Debug\9.Ciclos_While_eEercicios.exe
+C:\Users\Usuario\Dropbox\UPB\Programacion\Fundamentos_Programacion_MJ8\9.Ciclos_While_eEercicios\9.Ciclos_While_eEercicios\bin\Debug\9.Ciclos_While_eEercicios.pdb
+C:\Users\Usuario\Dropbox\UPB\Programacion\Fundamentos_Programacion_MJ8\9.Ciclos_While_eEercicios\9.Ciclos_While_eEercicios\obj\Debug\9.Ciclos_While_eEercicios.csproj.AssemblyReference.cache
+C:\Users\Usuario\Dropbox\UPB\Programacion\Fundamentos_Programacion_MJ8\9.Ciclos_While_eEercicios\9.Ciclos_While_eEercicios\obj\Debug\9.Ciclos_While_eEercicios.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Dropbox\UPB\Programacion\Fundamentos_Programacion_MJ8\9.Ciclos_While_eEercicios\9.Ciclos_While_eEercicios\obj\Debug\9.Ciclos_While_eEercicios.exe
+C:\Users\Usuario\Dropbox\UPB\Programacion\Fundamentos_Programacion_MJ8\9.Ciclos_While_eEercicios\9.Ciclos_While_eEercicios\obj\Debug\9.Ciclos_While_eEercicios.pdb
