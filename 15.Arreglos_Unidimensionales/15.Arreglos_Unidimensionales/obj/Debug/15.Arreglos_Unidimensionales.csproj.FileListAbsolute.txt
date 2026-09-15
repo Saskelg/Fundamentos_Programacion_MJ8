@@ -1,0 +1,7 @@
+C:\Users\Azura\Dropbox\UPB\Programacion\Fundamentos_Programacion_MJ8\15.Arreglos_Unidimensionales\15.Arreglos_Unidimensionales\bin\Debug\15.Arreglos_Unidimensionales.exe.config
+C:\Users\Azura\Dropbox\UPB\Programacion\Fundamentos_Programacion_MJ8\15.Arreglos_Unidimensionales\15.Arreglos_Unidimensionales\bin\Debug\15.Arreglos_Unidimensionales.exe
+C:\Users\Azura\Dropbox\UPB\Programacion\Fundamentos_Programacion_MJ8\15.Arreglos_Unidimensionales\15.Arreglos_Unidimensionales\bin\Debug\15.Arreglos_Unidimensionales.pdb
+C:\Users\Azura\Dropbox\UPB\Programacion\Fundamentos_Programacion_MJ8\15.Arreglos_Unidimensionales\15.Arreglos_Unidimensionales\obj\Debug\15.Arreglos_Unidimensionales.csproj.AssemblyReference.cache
+C:\Users\Azura\Dropbox\UPB\Programacion\Fundamentos_Programacion_MJ8\15.Arreglos_Unidimensionales\15.Arreglos_Unidimensionales\obj\Debug\15.Arreglos_Unidimensionales.csproj.CoreCompileInputs.cache
+C:\Users\Azura\Dropbox\UPB\Programacion\Fundamentos_Programacion_MJ8\15.Arreglos_Unidimensionales\15.Arreglos_Unidimensionales\obj\Debug\15.Arreglos_Unidimensionales.exe
+C:\Users\Azura\Dropbox\UPB\Programacion\Fundamentos_Programacion_MJ8\15.Arreglos_Unidimensionales\15.Arreglos_Unidimensionales\obj\Debug\15.Arreglos_Unidimensionales.pdb
