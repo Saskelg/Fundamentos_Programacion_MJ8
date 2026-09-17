@@ -1,0 +1,7 @@
+C:\Users\Azura\Dropbox\UPB\Programacion\Fundamentos_Programacion_MJ8\2.P.Parcial_Ciclos\2.P.Parcial_Ciclos\bin\Debug\2.P.Parcial_Ciclos.exe.config
+C:\Users\Azura\Dropbox\UPB\Programacion\Fundamentos_Programacion_MJ8\2.P.Parcial_Ciclos\2.P.Parcial_Ciclos\bin\Debug\2.P.Parcial_Ciclos.exe
+C:\Users\Azura\Dropbox\UPB\Programacion\Fundamentos_Programacion_MJ8\2.P.Parcial_Ciclos\2.P.Parcial_Ciclos\bin\Debug\2.P.Parcial_Ciclos.pdb
+C:\Users\Azura\Dropbox\UPB\Programacion\Fundamentos_Programacion_MJ8\2.P.Parcial_Ciclos\2.P.Parcial_Ciclos\obj\Debug\2.P.Parcial_Ciclos.csproj.AssemblyReference.cache
+C:\Users\Azura\Dropbox\UPB\Programacion\Fundamentos_Programacion_MJ8\2.P.Parcial_Ciclos\2.P.Parcial_Ciclos\obj\Debug\2.P.Parcial_Ciclos.csproj.CoreCompileInputs.cache
+C:\Users\Azura\Dropbox\UPB\Programacion\Fundamentos_Programacion_MJ8\2.P.Parcial_Ciclos\2.P.Parcial_Ciclos\obj\Debug\2.P.Parcial_Ciclos.exe
+C:\Users\Azura\Dropbox\UPB\Programacion\Fundamentos_Programacion_MJ8\2.P.Parcial_Ciclos\2.P.Parcial_Ciclos\obj\Debug\2.P.Parcial_Ciclos.pdb
