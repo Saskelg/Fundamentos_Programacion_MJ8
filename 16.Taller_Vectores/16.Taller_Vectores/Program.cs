@@ -56,10 +56,11 @@ namespace _16.Taller_Vectores
             int numeroBuscado = 0;
 
             int[] vector = new int[20];
-
+            
+            Random random = new Random();
+            
             for (int i = 0; i < vector.Length; i++)
             {
-                Random random = new Random();
                 vector[i] = random.Next(0, 51);
             }
 
