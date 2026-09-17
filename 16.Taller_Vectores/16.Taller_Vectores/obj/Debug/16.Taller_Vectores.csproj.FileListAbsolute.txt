@@ -1,0 +1,7 @@
+C:\Users\Azura\Dropbox\UPB\Programacion\Fundamentos_Programacion_MJ8\16.Taller_Vectores\16.Taller_Vectores\bin\Debug\16.Taller_Vectores.exe.config
+C:\Users\Azura\Dropbox\UPB\Programacion\Fundamentos_Programacion_MJ8\16.Taller_Vectores\16.Taller_Vectores\bin\Debug\16.Taller_Vectores.exe
+C:\Users\Azura\Dropbox\UPB\Programacion\Fundamentos_Programacion_MJ8\16.Taller_Vectores\16.Taller_Vectores\bin\Debug\16.Taller_Vectores.pdb
+C:\Users\Azura\Dropbox\UPB\Programacion\Fundamentos_Programacion_MJ8\16.Taller_Vectores\16.Taller_Vectores\obj\Debug\16.Taller_Vectores.csproj.AssemblyReference.cache
+C:\Users\Azura\Dropbox\UPB\Programacion\Fundamentos_Programacion_MJ8\16.Taller_Vectores\16.Taller_Vectores\obj\Debug\16.Taller_Vectores.csproj.CoreCompileInputs.cache
+C:\Users\Azura\Dropbox\UPB\Programacion\Fundamentos_Programacion_MJ8\16.Taller_Vectores\16.Taller_Vectores\obj\Debug\16.Taller_Vectores.exe
+C:\Users\Azura\Dropbox\UPB\Programacion\Fundamentos_Programacion_MJ8\16.Taller_Vectores\16.Taller_Vectores\obj\Debug\16.Taller_Vectores.pdb
