@@ -1,0 +1,7 @@
+C:\Users\Azura\Dropbox\UPB\Programacion\Fundamentos_Programacion_MJ8\19.Programacion_Modular\19.Programacion_Modular\bin\Debug\19.Programacion_Modular.exe.config
+C:\Users\Azura\Dropbox\UPB\Programacion\Fundamentos_Programacion_MJ8\19.Programacion_Modular\19.Programacion_Modular\bin\Debug\19.Programacion_Modular.exe
+C:\Users\Azura\Dropbox\UPB\Programacion\Fundamentos_Programacion_MJ8\19.Programacion_Modular\19.Programacion_Modular\bin\Debug\19.Programacion_Modular.pdb
+C:\Users\Azura\Dropbox\UPB\Programacion\Fundamentos_Programacion_MJ8\19.Programacion_Modular\19.Programacion_Modular\obj\Debug\19.Programacion_Modular.csproj.AssemblyReference.cache
+C:\Users\Azura\Dropbox\UPB\Programacion\Fundamentos_Programacion_MJ8\19.Programacion_Modular\19.Programacion_Modular\obj\Debug\19.Programacion_Modular.csproj.CoreCompileInputs.cache
+C:\Users\Azura\Dropbox\UPB\Programacion\Fundamentos_Programacion_MJ8\19.Programacion_Modular\19.Programacion_Modular\obj\Debug\19.Programacion_Modular.exe
+C:\Users\Azura\Dropbox\UPB\Programacion\Fundamentos_Programacion_MJ8\19.Programacion_Modular\19.Programacion_Modular\obj\Debug\19.Programacion_Modular.pdb
