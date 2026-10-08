@@ -1,0 +1,7 @@
+C:\Users\Azura\Dropbox\UPB\Programacion\Fundamentos_Programacion_MJ8\20.Ejercicios_Modulares\20.Ejercicios_Modulares\bin\Debug\20.Ejercicios_Modulares.exe.config
+C:\Users\Azura\Dropbox\UPB\Programacion\Fundamentos_Programacion_MJ8\20.Ejercicios_Modulares\20.Ejercicios_Modulares\bin\Debug\20.Ejercicios_Modulares.exe
+C:\Users\Azura\Dropbox\UPB\Programacion\Fundamentos_Programacion_MJ8\20.Ejercicios_Modulares\20.Ejercicios_Modulares\bin\Debug\20.Ejercicios_Modulares.pdb
+C:\Users\Azura\Dropbox\UPB\Programacion\Fundamentos_Programacion_MJ8\20.Ejercicios_Modulares\20.Ejercicios_Modulares\obj\Debug\20.Ejercicios_Modulares.csproj.AssemblyReference.cache
+C:\Users\Azura\Dropbox\UPB\Programacion\Fundamentos_Programacion_MJ8\20.Ejercicios_Modulares\20.Ejercicios_Modulares\obj\Debug\20.Ejercicios_Modulares.csproj.CoreCompileInputs.cache
+C:\Users\Azura\Dropbox\UPB\Programacion\Fundamentos_Programacion_MJ8\20.Ejercicios_Modulares\20.Ejercicios_Modulares\obj\Debug\20.Ejercicios_Modulares.exe
+C:\Users\Azura\Dropbox\UPB\Programacion\Fundamentos_Programacion_MJ8\20.Ejercicios_Modulares\20.Ejercicios_Modulares\obj\Debug\20.Ejercicios_Modulares.pdb
