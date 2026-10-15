@@ -1,0 +1,7 @@
+C:\Users\Azura\Dropbox\UPB\Programacion\Fundamentos_Programacion_MJ8\22.2.Taller_Programacion_Modular\22.2.Taller_Programacion_Modular\bin\Debug\22.2.Taller_Programacion_Modular.exe.config
+C:\Users\Azura\Dropbox\UPB\Programacion\Fundamentos_Programacion_MJ8\22.2.Taller_Programacion_Modular\22.2.Taller_Programacion_Modular\bin\Debug\22.2.Taller_Programacion_Modular.exe
+C:\Users\Azura\Dropbox\UPB\Programacion\Fundamentos_Programacion_MJ8\22.2.Taller_Programacion_Modular\22.2.Taller_Programacion_Modular\bin\Debug\22.2.Taller_Programacion_Modular.pdb
+C:\Users\Azura\Dropbox\UPB\Programacion\Fundamentos_Programacion_MJ8\22.2.Taller_Programacion_Modular\22.2.Taller_Programacion_Modular\obj\Debug\22.2.Taller_Programacion_Modular.csproj.AssemblyReference.cache
+C:\Users\Azura\Dropbox\UPB\Programacion\Fundamentos_Programacion_MJ8\22.2.Taller_Programacion_Modular\22.2.Taller_Programacion_Modular\obj\Debug\22.2.Taller_Programacion_Modular.csproj.CoreCompileInputs.cache
+C:\Users\Azura\Dropbox\UPB\Programacion\Fundamentos_Programacion_MJ8\22.2.Taller_Programacion_Modular\22.2.Taller_Programacion_Modular\obj\Debug\22.2.Taller_Programacion_Modular.exe
+C:\Users\Azura\Dropbox\UPB\Programacion\Fundamentos_Programacion_MJ8\22.2.Taller_Programacion_Modular\22.2.Taller_Programacion_Modular\obj\Debug\22.2.Taller_Programacion_Modular.pdb
